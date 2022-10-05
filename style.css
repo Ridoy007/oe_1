@@ -84,8 +84,8 @@ a:hover, a:active {
 }
 p11{
     color:yellow;
-    font-family:Designer;
-    font-size:20px;
+    font-family:Verdana;
+    font-size:10px;
     text-align:center;
 }
 body{
@@ -234,5 +234,9 @@ p33 {
     .slider .slide .info p {
         font-size: 0.9em;
     }
+}
+a{
+    font-size:20px;
+
 }
       
